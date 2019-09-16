@@ -10,3 +10,8 @@
 
 test kido
 Hello kido
+
+My Major Language is JAVA
+
+What is your major?
+
